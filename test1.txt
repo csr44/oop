@@ -1,1 +1,2 @@
 funkcionality add user
+function add group
