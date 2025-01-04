@@ -1,2 +1,3 @@
 funkcionality add user
 function add group
+function register user
